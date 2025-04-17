@@ -1,0 +1,4 @@
+
+webwhatsapi
+PyPDF2
+ollama
